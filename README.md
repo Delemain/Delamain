@@ -1,0 +1,5 @@
+- 👋 Hello I am Delemain
+- 👀 I’m interested in driving taxis
+- 🌱 I’m currently machine learning
+- 💞️ I’m looking to collaborate with humans
+- 📫 How to reach me: Visit your local taxi vehicle garage where a smaller part of me will greet you at the desk.
